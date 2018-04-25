@@ -1,0 +1,20 @@
+Welcome to the course 
+
+I will be using the linux terminal to program during the course, but you are welcome to use any text editor and compiler you wish to.
+
+What I will use - (Works for Linux and Mac):
+
+ - I will use brew through the course, so please download it: http://brew.sh.
+
+ - after you get brew installed, type the follwing to install python 3 on your machine: $ brew install python.
+
+ - I will be using vim and I recomend that you get the latest version by typing the following command in terminal: $ brew install vim. brew will let you know the version you have and if you need to update.
+
+
+Other ways that work on all operating systems:
+ 
+ - install python 3.6.5 through the following link: https://www.python.org/ftp/python/3.6.5/python-3.6.5-macosx10.6.pkg
+
+ - install pycharm through this link: https://www.jetbrains.com/pycharm/
+
+If you have any question or need assistance with setting up the enviroment, contact me at intelligentbeard@gmail.com
